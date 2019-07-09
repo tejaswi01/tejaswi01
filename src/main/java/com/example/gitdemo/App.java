@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "its me tejaswi" );
+        System.out.println( "Maven Ci demo");
     }
 }
