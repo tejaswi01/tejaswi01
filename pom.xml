@@ -4,7 +4,9 @@
 
   <groupId>com.example</groupId>
   <artifactId>gitdemo</artifactId>
-  <version>0.0.0-SNAPSHOT</version>
+
+  <version>0.0.2-SNAPSHOTs</version>
+
   <packaging>jar</packaging>
 
   <name>gitdemo</name>
